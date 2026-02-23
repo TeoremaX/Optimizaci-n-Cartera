@@ -8,7 +8,8 @@ This project leverages Python libraries to download, process, analyze, and visua
 - **matplotlib** & **seaborn**: data visualization.
 - **statsmodels** & **arch**: time series modeling and conditional volatility (GARCH).
 - **joblib**: storage and retrieval of large objects (models, matrices, results).
-
+- **PyPortfolioOpt**: advanced portfolio optimization methods (efficient frontier, risk parity, and more).
+  
 **Note:** Installing all dependencies prior to running the project is recommended to ensure full reproducibility.
 
 ## Project Folder Structure

@@ -19,3 +19,18 @@ El proyecto utiliza librerías de Python para procesamiento, análisis y visuali
 
 ```bash
 pip install -r requirements.txt
+
+
+ProyectoCartera/
+│
+├── data/
+│   ├── raw/        <- Datos crudos descargados de yfinance
+│   └── processed/  <- Datos limpios y transformados
+│
+├── outputs/        <- Gráficos, reportes y resultados finales
+│
+├── notebooks/      <- Notebooks de análisis paso a paso
+│
+├── src/            <- Funciones y scripts reutilizables
+│
+└── README.md       <- Documentación del proyecto
